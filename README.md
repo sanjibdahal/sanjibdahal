@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flutter App Development**
 
-- 🌱 I’m currently learning **Flutter, Dart, HTMX and GOlang**
+- 🌱 I’m currently learning **Flutter, Dart, HTMX and Golang**
 
 - 🤝 I’m looking for help with **App Development**
 
@@ -20,7 +20,7 @@
 <a href="https://twitter.com/san_jib_dahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="san_jib_dahal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjib-dahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjib-dahal" height="30" width="40" /></a>
 <a href="https://instagram.com/san_jib_dahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="san_jib_dahal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sanjib_dahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanjib_dahal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sanjib_dahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanjib_dahal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sanjib_dahal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanjib_dahal" height="30" width="40" /></a>
 </p>
 
