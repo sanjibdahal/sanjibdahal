@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjib Dahal</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjibdahal" alt="sanjibdahal" /></a> </p>
-
 - 🔭 I’m currently working on **Flutter App Development**
 
 - 🌱 I’m currently learning **Flutter, Dart, HTMX and Golang**
