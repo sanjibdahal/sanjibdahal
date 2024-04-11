@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **App Development**
 
-- 👨‍💻 All of my projects are available at [sanjibdahal.com.np](sanjibdahal.com.np)
-
 - 📫 How to reach me **sanjibdahal04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
