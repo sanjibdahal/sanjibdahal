@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanjib Dahal</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Flutter App Development**
+- 🔭 I’m currently working on **React Native App Development**
 
-- 🌱 I’m currently learning **Flutter, Dart, HTMX and Golang**
+- 🌱 I’m currently learning **JavaScript, React Native**
 
 - 🤝 I’m looking for help with **App Development**
 
